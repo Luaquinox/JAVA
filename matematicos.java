@@ -1,4 +1,4 @@
-public class Matematicos {
+public class matematicos {
 
     public static void main(String[] args) {
 
